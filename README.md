@@ -246,3 +246,59 @@ If you find this project useful:
 ---
 
 Made with ❤️ for the AI and Open Source Community.
+
+## 📱 Mobile App (Coming Soon)
+
+OpenPromptHub is expanding beyond GitHub.
+
+We are currently developing a mobile application that will allow users to:
+
+* 🔍 Search prompts instantly
+* ⭐ Save favorite prompts
+* 📂 Browse prompt categories
+* 🤝 Share prompts with the community
+* 📈 View trending prompts
+* 🔔 Receive new prompt recommendations
+* 🤖 Copy prompts directly into AI tools
+
+### Planned Platforms
+
+* Android (Google Play Store)
+* iOS (Apple App Store)
+
+### Status
+
+🚧 Under Development
+
+📅 Expected Release: Coming Soon
+
+Stay tuned for updates and early access announcements.
+
+---
+
+## 🗺️ Product Roadmap
+
+### Phase 1
+
+✅ Open-Source Prompt Repository
+
+### Phase 2
+
+🚧 Community Contributions
+
+### Phase 3
+
+🚧 Prompt Rating & Review System
+
+### Phase 4
+
+🚧 Web Search & Discovery Platform
+
+### Phase 5
+
+🚧 Android & iOS Mobile Applications
+
+### Phase 6
+
+🚧 AI-Powered Prompt Recommendation Engine
+
